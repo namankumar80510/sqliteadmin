@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+tmp/
+vendor/
+node_modules/
+.sass-cache/
+data/
+composer.lock
+package-lock.json
+.env

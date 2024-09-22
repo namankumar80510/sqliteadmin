@@ -1,0 +1,1 @@
+{"tableName":"sample","columns":[{"name":"id","type":"INTEGER","nullable":false,"primaryKey":true,"defaultValue":""}]}
