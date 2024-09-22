@@ -1,6 +1,7 @@
 {
     "name": "sqliteadmin/sqliteadmin",
     "description": "Manage sqlite databases with ease.",
+    "type": "project",
     "license": "MIT",
     "homepage": "https://github.com/namankumar80510/sqliteadmin",
     "authors": [
