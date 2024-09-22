@@ -1,6 +1,14 @@
 {
     "name": "sqliteadmin/sqliteadmin",
     "description": "Manage sqlite databases with ease.",
+    "license": "MIT",
+    "homepage": "https://github.com/namankumar80510/sqliteadmin",
+    "authors": [
+        {
+            "name": "Naman Kumar",
+            "email": "namankumar80510@gmail.com"
+        }
+    ],
     "require": {
         "dibi/dibi": "^5.0",
         "dikki/config": "^1.0",
