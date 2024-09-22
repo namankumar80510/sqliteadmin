@@ -1,4 +1,6 @@
 {
+    "name": "sqliteadmin/sqliteadmin",
+    "description": "Manage sqlite databases with ease.",
     "require": {
         "dibi/dibi": "^5.0",
         "dikki/config": "^1.0",
