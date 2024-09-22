@@ -1,4 +1,4 @@
-# SQLiteAdmin
+# MySQLiteAdmin
 
 - Work in Progress
 - Manage SQLite Databases with ease.
